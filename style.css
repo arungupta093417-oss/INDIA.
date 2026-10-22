@@ -1,0 +1,37 @@
+body{
+      background: rgb(28, 204, 224);
+padding: 50px;
+}
+#one{
+      color: rgb(15, 196, 72);
+      text-align: center;
+      font-size: 1500;
+      border: 8px rgb(200, 229, 11);
+      background: white ;
+      padding: 25px;
+      border-radius: 10px;
+      text-decoration: under line;
+      text-decoration-color: rgb(238, 4, 24);
+      text-decoration-thickness: 3px;
+}
+#two{
+      color: rgb(4, 175, 184);
+      font-size: 2000px;
+}
+#three{
+      color: rgb(244, 24, 200);
+      font-size: 33px;
+}
+h1{
+      font-size: 40 ;
+}
+.para{
+      background: rgb(237, 226, 226);
+      padding: 20px;
+      font-size: 25px;
+      line-height: 1.6;
+}
+img{
+width: 300;
+height: 100;
+}
